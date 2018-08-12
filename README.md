@@ -2,7 +2,7 @@ JSONC
 =====
 # Update to version 1.6.1
 
-[![Build Status](https://travis-ci.org/tcorral/JSONC.png)](https://travis-ci.org/tcorral/JSONC)
+```[![Build Status](https://travis-ci.org/tcorral/JSONC.png)](https://travis-ci.org/tcorral/JSONC)```
 
 [Changelog](https://raw.github.com/tcorral/JSONC/master/changelog.txt)
 
